@@ -1,28 +1,28 @@
 # Tutorial Pemrograman: Javascript
 
 ## Apa Itu Javascript ✅
-- Definisi
-- Sejarah
-- Kegunaan Javascript
-- Alasan Menggunakan Javascript
+- Definisi ✅
+- Sejarah ✅
+- Kegunaan Javascript ✅
+- Alasan Menggunakan Javascript ✅
 
 ## Variabel ✅
-- Definisi
-- Cara Menulis Variabel
-- Mengubah Nilai Variabel
-- Tugas
+- Definisi ✅
+- Cara Menulis Variabel ✅
+- Mengubah Nilai Variabel ✅
+- Tugas ✅
+
+## Deklarasi Variabel ✅
+- Definisi ✅
+- Berbagai cara deklarasi variabel ✅
+- Tugas ✅
 
 ## String ✅
-- Definisi
-- Cara Penulisan String
-- Menampilkan string ke layar
-- Manipulasi String
-- Tugas
-
-## Number
-- Menggunakan bilangan pecahan
-
-## Mengubah String ke Number dan sebaliknya
+- Definisi ✅
+- Cara Penulisan String ✅
+- Menampilkan string ke layar ✅
+- Manipulasi String ✅
+- Tugas ✅
 
 ## Operator
 - Operand dan operator
@@ -32,6 +32,13 @@
 - Operator perbandingan
 - Operator logika
 - Operator gabungan
+
+## Pengulangan
+- Pengulangan while
+- Pengulangan for untuk range
+- Break
+- Continue
+- Pengulangan for untuk list
 
 ## Function
 - Definisi function
@@ -45,26 +52,70 @@
 - Menggunakan return
 - Menggunakan function input
 
-## Pengulangan
-- Pengulangan while
-- Pengulangan for untuk range
-- Break
-- Continue
-- Pengulangan for untuk list
-
 ## Pengondisian
 - Menggunakan pengondisian
 - Mengatasi kesalahan
 
-## Struktur Data
-- List
-- Tuple
-- Dictionary
+## Array
+- Definisi
+- Cara penulisan array
+- Manipulasi array
+- Tugas
 
-## Module
-- Definisi module
-- Membuat module sederhana
+## Object
+- Definisi
+- Cara penulisan object
+- Manipulasi object
+- Tugas
 
-## Packages
-- Menambahkan packages
-- Contoh penggunaan packages
+## Strict Mode
+- Definisi
+- Contoh penggunaan strict mode
+- Alasan menggunakan strict mode
+- Tugas
+
+## Pengenalan ES Module 6
+
+## Arrow Function
+
+## Template Literal
+
+## Tagged Templates
+
+## Destructuring Assignment
+
+## For of Loop
+
+## Spread Operator
+
+## Function Rest Parameter
+
+## Default Parameter
+
+## Map Objects
+
+## String Helpers
+
+## Pengenalan Functional Programming
+
+## First Class Object
+
+## Pure Function
+
+## Higher Order Function
+
+## Composition
+
+## Immutability
+
+## Pengenalan Object Oriented Programming
+
+## Object Property Method
+
+## Encapsulation
+
+## Abstraction
+
+## Inheritance
+
+## Polymorphism
